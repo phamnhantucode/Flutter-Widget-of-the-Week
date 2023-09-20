@@ -1,16 +1,9 @@
 # widget_of_the_week
 
-A new Flutter project.
+A new Flutter project for Widget of the Week.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Home Screen Widget
+<img src="[link_anh_cua_ban](https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/home_screen_widget/home_screen_widget_1.png)https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/home_screen_widget/home_screen_widget_1.png">
+<img src="[link_anh_cua_ban](https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/home_screen_widget/home_screen_widget_1.png)https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/home_screen_widget/home_screen_widget_2.png">
