@@ -18,3 +18,6 @@ A new Flutter project for Widget of the Week.
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/flutter_animate/flutter_animate_1.png?raw=true" height="600">
 
+4. Flutter Raw Magnifier
+
+<img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/raw_magnifier/raw_magnifier.png?raw=true" height="600">
