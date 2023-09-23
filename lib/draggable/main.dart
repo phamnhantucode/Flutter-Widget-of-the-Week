@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:widget_of_the_week/draggable/page/draggable_text_page.dart';
-import 'package:widget_of_the_week/home_widgets/main.dart';
 
 Future main() async {
   // ensure the necessary bindings and initialization of Flutter are perform before running the application
@@ -70,7 +69,7 @@ class _MainPageState extends State<MainPage> {
   }
 
   Widget buildBottomNavigationBar() {
-    final style = TextStyle(color: Colors.white);
+    const style = TextStyle(color: Colors.white);
     return BottomNavigationBar(
       backgroundColor: Theme.of(context).primaryColor,
       selectedItemColor: Colors.white,
@@ -81,7 +80,7 @@ class _MainPageState extends State<MainPage> {
         });
       },
       currentIndex: index,
-      items: [
+      items: const [
         BottomNavigationBarItem(
           icon: Text('Draggable', style: style),
           label: 'Text'

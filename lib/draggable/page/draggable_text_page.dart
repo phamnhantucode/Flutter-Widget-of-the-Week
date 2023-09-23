@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:widget_of_the_week/draggable/main.dart';
-import 'package:widget_of_the_week/home_widgets/main.dart';
 
 class DraggableTextPage extends StatelessWidget {
   const DraggableTextPage({super.key});
@@ -18,12 +17,12 @@ class DraggableTextPage extends StatelessWidget {
             text: 'Text Drag',
             color: Colors.purple,
           ),
-          child: buildTextContainer(
-            text: 'Drag me',
-            color: Colors.purple,
-          ),
           childWhenDragging: buildTextContainer(
             text: 'Behind',
+            color: Colors.purple,
+          ),
+          child: buildTextContainer(
+            text: 'Drag me',
             color: Colors.purple,
           ),
         ),

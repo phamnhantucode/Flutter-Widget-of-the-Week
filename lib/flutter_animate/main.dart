@@ -173,7 +173,7 @@ class MyFlutterAnimateApp extends StatelessWidget {
                   duration: 1000.ms,
                   builder: (context, value, child) => Container(
                         color: Color.lerp(Colors.red, Colors.blue, value),
-                        padding: EdgeInsets.all(8),
+                        padding: const EdgeInsets.all(8),
                         child: child, // child is the Text widget being animated
                       )),
               const SizedBox(
