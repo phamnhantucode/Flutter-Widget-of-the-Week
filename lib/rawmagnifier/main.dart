@@ -66,3 +66,4 @@ class _MyRawMagnifierState extends State<MyRawMagnifier> {
     ));
   }
 }
+
