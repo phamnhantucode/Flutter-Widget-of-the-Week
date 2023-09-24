@@ -21,3 +21,7 @@ A new Flutter project for Widget of the Week.
 4. Flutter Raw Magnifier
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/raw_magnifier/raw_magnifier.png?raw=true" height="600">
+
+5. Flutter Navigation Bar MD3
+
+<img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/navigation_bar/navigation_bar_1.png?raw=true" height="600">
