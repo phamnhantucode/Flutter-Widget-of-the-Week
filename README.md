@@ -29,3 +29,7 @@ A new Flutter project for Widget of the Week.
 5. Flutter Text Style
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/text_style/text_style.png?raw=true" height="600">
+
+6. Flutter Linear Gradient
+
+<img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/linear_gradient/linear_gradient_1.png?raw=true" height="600">
