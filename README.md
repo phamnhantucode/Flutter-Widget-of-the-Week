@@ -41,3 +41,7 @@ A new Flutter project for Widget of the Week.
 8. Flutter Navigation Rail
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/navigation_rail/navigation_rail.png?raw=true" height="600">
+
+9. Flutter Google Fonts package
+
+<img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/google_fonts/google_fonts.png?raw=true" height="600">
