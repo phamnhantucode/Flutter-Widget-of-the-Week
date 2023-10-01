@@ -42,6 +42,10 @@ A new Flutter project for Widget of the Week.
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/navigation_rail/navigation_rail.png?raw=true" height="600">
 
-9. Flutter Google Fonts package
+9. Flutter Google Fonts Package
 
 <img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/google_fonts/google_fonts.png?raw=true" height="600">
+
+10. Flutter Repaint Boundary Widget
+
+<img src="https://github.com/phamnhantucode/Flutter-Widget-of-the-Week/blob/main/images/repaint_boundary_widget/repaint_boundary_widget.png?raw=true" height="600">
