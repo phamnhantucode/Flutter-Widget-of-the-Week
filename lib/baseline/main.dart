@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Baseline Example'),
+          title: const Text('Baseline Example'),
         ),
         body: Center(
           child: Row(
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(fontSize: fontSize),
                 ),
               ),
-              SizedBox(width: 16.0),
+              const SizedBox(width: 16.0),
               Baseline(
                 baseline: fontSize,
                 baselineType: TextBaseline.alphabetic,
