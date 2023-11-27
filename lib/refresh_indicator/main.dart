@@ -1,15 +1,13 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(
-    MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const HomePage(),
-    )
-  );
+  runApp(MaterialApp(
+    title: 'Flutter Demo',
+    theme: ThemeData(
+      primarySwatch: Colors.blue,
+    ),
+    home: const HomePage(),
+  ));
 }
 
 class HomePage extends StatelessWidget {
@@ -25,9 +23,15 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Home Page'),
       ),
-      body: RefreshIndicator(onRefresh: _refresh, child: ListView.builder(itemCount: 20, itemBuilder: (context, index) {
-        return Text('Index $index');
-      },)),
+      body: RefreshIndicator(
+          onRefresh: _refresh,
+          backgroundColor: Colors.blue,
+          child: ListView.builder(
+            itemCount: 20,
+            itemBuilder: (context, index) {
+              return Text('Index $index');
+            },
+          )),
     );
   }
 }
