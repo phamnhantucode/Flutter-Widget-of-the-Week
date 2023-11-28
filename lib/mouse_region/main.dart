@@ -40,7 +40,6 @@ class _HomePageState extends State<HomePage> {
         body: Center(
           child: ColoredBox(
             color: Colors.blue.shade100,
-            
             child: Text('Current position of mouse: x = $x, y = $y'),
           ),
         ),
